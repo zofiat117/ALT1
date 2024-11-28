@@ -1,47 +1,47 @@
 const questions = [
     { 
-        question: "You find yourself in a forest with a bear, what do you do?", 
+        question: "You find yourself in a forest with a brown bear, what do you do?", 
         answers: [
-            { text: "run", correct: false},
-            { text: "run", correct: false},
-            { text: "kiss it", correct: true},
-            { text: "run", correct: false},
+            { text: "Run", correct: false},
+            { text: "Play dead", correct: false},
+            { text: "Take height", correct: true},
+            { text: "Stand still", correct: false},
         ] 
     },
     { 
-        question: "You find yourself in a forest with a bear, what do you do?", 
+        question: "You find yourself in a forest with a black bear, what do you do?", 
         answers: [
-            { text: "run", correct: false},
-            { text: "run", correct: false},
-            { text: "kiss it", correct: true},
-            { text: "run", correct: false},
+            { text: "Play dead", correct: false},
+            { text: "Take height", correct: false},
+            { text: "Stand still", correct: true},
+            { text: "Run", correct: false},
         ] 
     },
     { 
-        question: "You find yourself in a forest with a bear, what do you do?", 
+        question: "You find yourself in a falling elevator, how do you survive?", 
         answers: [
-            { text: "run", correct: false},
-            { text: "run", correct: false},
-            { text: "kiss it", correct: true},
-            { text: "run", correct: false},
+            { text: "Put your hands behind your head and crouch down", correct: false},
+            { text: "Jump before impact", correct: false},
+            { text: "Hold onto the railing and stand firmly", correct: true},
+            { text: "Lay flat on your back", correct: false},
         ] 
     },
     { 
-        question: "You find yourself in a forest with a bear, what do you do?", 
+        question: "A fire breaks out in your house at night, and the hallway is filled with smoke, what do you do?", 
         answers: [
-            { text: "run", correct: false},
-            { text: "run", correct: false},
-            { text: "kiss it", correct: true},
-            { text: "run", correct: false},
+            { text: "Move quickly through the smoke while holding your breath to avoid inhaling toxins", correct: false},
+            { text: "Wrap yourself in a blanket to protect against burns and then run to the nearest exit", correct: false},
+            { text: "Stay low to the ground, crawl to the nearest exit and cover your nose and mouth with a damp cloth", correct: true},
+            { text: "Open a window and wait for rescuers to arrive, avoid opening doors to stop fire from spreading", correct: false},
         ] 
     },
     { 
-        question: "You find yourself in a forest with a bear, what do you do?", 
+        question: "Your car plunges into a lake and begins to sink, what should you do?", 
         answers: [
-            { text: "run", correct: false},
-            { text: "run", correct: false},
-            { text: "kiss it", correct: true},
-            { text: "run", correct: false},
+            { text: "Roll down / Break the window and escape before the car fills with water", correct: false},
+            { text: "Call for help first, wait until emergency services arrive before trying to exit the car", correct: false},
+            { text: "Wait until the car is fully submerged to equalise the pressure, making it easier to open the door", correct: true},
+            { text: "Turn on the car's interior lights and wait until the water pressure stabilises to give you more time to act", correct: false},
         ] 
     }
    
